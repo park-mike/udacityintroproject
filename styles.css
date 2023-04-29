@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+h1 {
+  font-family: 5px;
+  font-size: 10px;
+  margin: 1em;
+}
+
+h2 {
+  margin: 0.5em 0 0.25em;
+  font-size: 5px;
+}
+
+h2:first-of-type {
+  margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+}
+
+tr {
+  height: 25px;
+}
+
+td {
+  width: 25px;
+}
+
+input[type="number"] {
+  width: 2em;
+}
