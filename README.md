@@ -1,2 +1,2 @@
-# udacityjavascriptproject
-Udacity Intro JavaScript Project
+# Udacity Project
+Udacity Intro JavaScript and HTML/CSS Project
