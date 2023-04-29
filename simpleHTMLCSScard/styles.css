@@ -1,0 +1,40 @@
+p { color: blue; }
+
+ul{
+  width: 250px;
+  font-size: 12px;
+  font-family: sans-serif;
+  background-color: lightblue;
+  margin: 10px;
+  list-style: none;
+  border: 2px solid blue;
+}
+
+
+.large-Box {
+  border: 10px solid blue; border-style: double;
+  padding: 1em;
+  margin: 0.75em;
+  width: 500px;
+  font-size: 22px;
+  text-align: center;
+  }
+
+.small-Box {
+  border: 10px solid lightblue; border-style: dashed;
+  padding: 1em;
+  margin: 1em;
+  width: 400px;
+  font-size: 14px;
+  text-align: left;
+  }
+
+.key {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 0.25em;
+}
+.interestingFact {
+  font-style: italic;
+  padding: 0.1em;
+}
